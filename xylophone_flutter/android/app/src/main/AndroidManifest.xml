@@ -1,6 +1,6 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android">
     <application
-        android:label="xylophone_flutter"
+        android:label="Drake Top7"
         android:name="${applicationName}"
         android:icon="@mipmap/ic_launcher">
         <activity
